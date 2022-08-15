@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":817,"scrollY":456.5},
+{"id":2,"expanded":true,"name":"普通の町","order":2,"parentId":1,"scrollX":1088,"scrollY":676.5},
+{"id":3,"expanded":false,"name":"民家1","order":3,"parentId":2,"scrollX":817,"scrollY":456.5},
+{"id":4,"expanded":false,"name":"武器屋","order":4,"parentId":2,"scrollX":817,"scrollY":456.5},
+{"id":5,"expanded":true,"name":"森","order":5,"parentId":0,"scrollX":809,"scrollY":576.5},
+{"id":6,"expanded":false,"name":"遺跡","order":6,"parentId":5,"scrollX":809,"scrollY":923.5}
+]
